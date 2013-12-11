@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+div{
+	float: left;
+}
+#leftContent{
+	width: 50%;
+}
+#leftContent div{
+	
+	width: 100%;
+}
+#rightContent{
+	width: 40%;
+}
+#rightContent div{
+	width: 100%;
+}
+#footerinfo{
+	float: left;
+}
+#footerutil{
+	float: right;
+	
+}
+#footerutil *{
+	margin-left: 10px
+}
